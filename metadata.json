@@ -1,0 +1,8 @@
+{
+  "name": "NovaStudio: AI Creative Suite",
+  "description": "A comprehensive creative platform for AI-powered research, scriptwriting, voiceover generation, and high-quality video production using the latest Gemini and Veo models.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
